@@ -1,5 +1,5 @@
-### I am Xiantai Xiang (相贤泰) 👋
-
+## I am Xiantai Xiang (相贤泰)👋
+---
 ![](https://img.shields.io/badge/Major-EE-609926?style=flat&logo=ABB%20RobotStudio&logoColor=ffffff)
 ![](https://img.shields.io/badge/Use-Python-0076ab?style=flat&logo=Python&logoColor=ffffff)
 ![](https://img.shields.io/badge/Learn-C++-blueviolet?style=flat&logo=Visual%20Studio%20Code&logoColor=ffffff)
