@@ -8,7 +8,7 @@
 ---
 ### :woman_technologist: My education
 - ###### Tongji University, Shanghai
-  <i> **BEng in Mechanical Engineering, 2019-09--2023-06**</i>
+  <i> **BEng in Industrial Engineering, 2019-09--2023-06**</i>
     
 - ###### University of Chinese Academy of Sciences, Beijing
   <i>**MEng in Electrical Engineering, 2023-06--Now**</I> 
