@@ -1,4 +1,4 @@
-## Xiantai Xiang (相贤泰)👋
+## Xiantai Xiang👋
 
 ![](https://img.shields.io/badge/Major-EE-609926?style=flat&logo=ABB%20RobotStudio&logoColor=ffffff)
 ![](https://img.shields.io/badge/Use-Python-0076ab?style=flat&logo=Python&logoColor=ffffff)
